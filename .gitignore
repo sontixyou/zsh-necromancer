@@ -1,0 +1,25 @@
+# Deno
+.deno/
+deno.lock
+
+# Build outputs
+zsh-necromancer
+dist/
+
+# Test directories
+.test/
+test-plugins/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
